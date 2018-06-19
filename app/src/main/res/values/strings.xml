@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Introduction</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">WELCOME TO NHUB</string>
+    <string name="fullname">Enter your full name here</string>
+    <string-array name="gender">
+        <item name="select gender"> Please select your gender </item>
+        <item name="male"> male </item>
+        <item name="female"> female </item>
+
+    </string-array>
+</resources>
